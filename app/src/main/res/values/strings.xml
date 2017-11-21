@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecycleViewAnimatorsDemo</string>
+    <string name="anim_sample">动画样式实例</string>
+    <string name="anim_define">自定义动画实例</string>
+    <string name="set_grid">设置多行</string>
+    <string name="del">删除</string>
+    <string name="add">增加</string>
+</resources>
